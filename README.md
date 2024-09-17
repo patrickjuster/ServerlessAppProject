@@ -34,6 +34,7 @@ Configure SES: <br/>
 <img src="https://i.imgur.com/ps20U0H.png"/>
 <br />
 <br />
+<br /> 
 Add Lambda Function for Email & Configure:  <br/>
 <img src="https://i.imgur.com/SvRJhPg.png"/>
  <img src="https://i.imgur.com/bFEoJl3.png"/>
