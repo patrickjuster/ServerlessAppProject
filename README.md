@@ -2,6 +2,7 @@
 
 <h2>Description</h2>
 The purpose of this project is to build a serverless reminder application on AWS. The premise of the application is that a pet cat can send a message to their owner's email. When the blue 'Email Minion' button is pressed, a command will be sent to API Gateway which will then send the message to the owner's email address.
+<img src="https://i.imgur.com/5YqeB1u.png"/>
 <br />
 <br/>
 Assumptions based on the architecture initially had me thinking that the project would be quick and easy. As I progressed through the project, it was truly illuminating seeing how much coding was necessary for the architecture to function properly. While the instructions did provide the code -- it was an eye opener that my coding skills will need some practice to get up to par with what's needed for architecting. As the project neared the end and I was ready to test the application, I ran into an error where the application was unable to fetch the data. Like in my current position I worked backwards to troubleshoot the issue. Researching online as well as reading through the project FAQ I was able to determine that I had misconfigured my Step Function. Starting from scratch I deleted the Step Function and followed the directions again -- resulting in a working application.
@@ -11,7 +12,7 @@ Reference: This project is based on Adrian Cantrill's mini-project: Pet-Cuddle-O
 <br />
 <br />
 <h2>Arhitecture Example</h2>
-<img src="https://i.imgur.com/5YqeB1u.png"/>
+<img src="https://i.imgur.com/sX5FzJQ.png"/>
 <br />
 <br />
 
