@@ -11,7 +11,7 @@ Reference: This project is based on Adrian Cantrill's mini-project: Pet-Cuddle-O
 <br />
 <br />
 <h2>Arhitecture Example</h2>
-<img src="https://i.imgur.com/WtDBGzl.png"/>
+<img src="https://i.imgur.com/5YqeB1u.png"/>
 <br />
 <br />
 
