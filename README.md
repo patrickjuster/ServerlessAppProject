@@ -24,19 +24,22 @@ Reference: This project is based on Adrian Cantrill's mini-project: Pet-Cuddle-O
 - <b>API Gateway</b>
 - <b>S3 Static Website<b>
 - <b>Step Functions<b>
-- <b>NAT Gateway<b>
+
 
 <h2>Project walk-through:</h2>
 <br />
 <br />
 <p align="center">
-Create VPC: <br/>
-<img src="https://i.imgur.com/LGk3VVq.png"/>
+Configure SES: <br/>
+<img src="https://i.imgur.com/ps20U0H.png"/>
 <br />
 <br />
- <img src="https://i.imgur.com/zGYuWKN.png"/>
-Launch EC2 Instance:  <br/>
-<img src="https://i.imgur.com/f5yhzhc.png"/>
+Add Lambda Function for Email & Configure:  <br/>
+<img src="https://i.imgur.com/SvRJhPg.png"/>
+ <img src="https://i.imgur.com/bFEoJl3.png"/>
+ <img src="https://i.imgur.com/MIHwvA5.png"/>
+ <img src="https://i.imgur.com/PIrKp7g.png"/>
+ <img src="https://i.imgur.com/Q3uXD3F.png"/>
 <br />
 <br />
 Testing Network Connectivity: <br/>
