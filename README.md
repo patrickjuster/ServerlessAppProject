@@ -60,19 +60,16 @@ Implement API Gateway, API & Lambda Function:  <br/>
 <br />
 <br />
 <br /> 
-Configure Attachments:  <br/>
-<img src="https://i.imgur.com/H0hR0yw.png"/>
+Implement Static Frontend & Test:  <br/>
+<img src="https://i.imgur.com/ewWqLDI.png"/>
+<img src="https://i.imgur.com/5VSjkoV.png"/>
+<img src="https://i.imgur.com/8WQ5Vxu.png"/>
+<img src="https://i.imgur.com/LLYPRJV.png"/>
+<img src="https://i.imgur.com/SBPX1RM.png"/>
+<img src="https://i.imgur.com/zsFdb4a.png"/>
+
 <br />
 <br />
-Configure Transit Gateway Routing:  <br/>
-<img src="https://i.imgur.com/H0hR0yw.png"/>
-<br />
-<br />
-<img src="https://i.imgur.com/lB3pk5m.png"/>
- <br />
- <br />
-Retest connectivity between EC2 in VPC#1 & VPC#2:  <br/>
-<img src="https://i.imgur.com/pETjSxV.png"/>
 </p>
 
 <!--
