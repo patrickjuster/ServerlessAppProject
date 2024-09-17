@@ -42,8 +42,11 @@ Add Lambda Function for Email & Configure:  <br/>
  <img src="https://i.imgur.com/Q3uXD3F.png"/>
 <br />
 <br />
-Testing Network Connectivity: <br/>
-<img src="https://i.imgur.com/AdGYKTv.png"/>
+Configure State Machine: <br/>
+<img src="https://i.imgur.com/W8AN8oQ.png"/>
+ <img src="https://i.imgur.com/Qc2LAjH.png"/>
+ <img src="https://i.imgur.com/Ll11JMc.png"/>
+ <img src="https://i.imgur.com/LZep11B.png"/>
 <br />
 <br />
 Create a Transit Gateway:  <br/>
