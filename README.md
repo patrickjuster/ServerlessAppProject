@@ -1,13 +1,13 @@
 <h1>AWS Serverless Reminder App</h1>
 
 <h2>Description</h2>
-The purpose of this project is to demonstrate how to build a basic virtual private cloud (VPC) in AWS, connecting it to an existing VPC and troubleshooting issues. 
+The purpose of this project is to build a serverless reminder application on AWS. The premise of the application is that a pet cat can send a message to their owner's email. When the blue 'Email Minion' button is pressed, a command will be sent to API Gateway which will then send the message to the owner's email address.
 <br />
 <br/>
-The architecture of this VPC models a three-tiered web application structure -- containing 2 availability zones (AZ), three subnets per AZ, an internet gateway and a NAT gateway.
+Assumptions based on the architecture initially had me thinking that the project would be quick and easy. As I progressed through the project, it was truly illuminating seeing how much coding was necessary for the architecture to function properly. While the instructions did provide the code -- it was an eye opener that my coding skills will need some practice to get up to par with what's needed for architecting. As the project neared the end and I was ready to test the application, I ran into an error where the application was unable to fetch the data. Like in my current position I worked backwards to troubleshoot the issue. Researching online as well as reading through the project FAQ I was able to determine that I had misconfigured my Step Function. Starting from scratch I deleted the Step Function and followed the directions again -- resulting in a working application.
 <br />
 <br />
-Note: This project is based on the AWS Skillbuilder lab, Amazon VPC Networking Basics. Project steps were followed on my personal AWS account and all screenshots are original.
+Reference: This project is based on Adrian Cantrill's mini-project: Pet-Cuddle-O-Tron 2023 (https://www.youtube.com/playlist?list=PLTk5ZYSbd9MgD5RMsUU-Vn5qRZY1A-UMU)
 <br />
 <br />
 <h2>Arhitecture Example</h2>
@@ -17,11 +17,11 @@ Note: This project is based on the AWS Skillbuilder lab, Amazon VPC Networking B
 
 <h2>AWS Services & Features Used</h2>
 
-- <b>AWS VPC</b>
-- <b>AWS EC2<b>
-- <b>Transit Gateway</b>
-- <b>Subnets<b>
-- <b>Internet Gateway<b>
+- <b>SES</b>
+- <b>Lambda<b>
+- <b>API Gateway</b>
+- <b>S3 Static Website<b>
+- <b>Step Functions<b>
 - <b>NAT Gateway<b>
 
 <h2>Project walk-through:</h2>
