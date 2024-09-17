@@ -43,6 +43,7 @@ Add Lambda Function for Email & Configure:  <br/>
  <img src="https://i.imgur.com/Q3uXD3F.png"/>
 <br />
 <br />
+<br />
 Configure State Machine: <br/>
 <img src="https://i.imgur.com/W8AN8oQ.png"/>
  <img src="https://i.imgur.com/Qc2LAjH.png"/>
@@ -50,10 +51,15 @@ Configure State Machine: <br/>
  <img src="https://i.imgur.com/LZep11B.png"/>
 <br />
 <br />
-Create a Transit Gateway:  <br/>
-<img src="https://i.imgur.com/WBtoD1g.png"/>
+<br /> 
+Implement API Gateway, API & Lambda Function:  <br/>
+<img src="https://i.imgur.com/VRTab0l.png"/>
+ <img src="https://i.imgur.com/pj3pr7S.png"/>
+ <img src="https://i.imgur.com/EWW7icH.png"/>
+ <img src="https://i.imgur.com/CQ5B1tP.png"/>
 <br />
 <br />
+<br /> 
 Configure Attachments:  <br/>
 <img src="https://i.imgur.com/H0hR0yw.png"/>
 <br />
